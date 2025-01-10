@@ -42,7 +42,7 @@ class MainActivity : AppCompatActivity() {
         // Initialize App Center
         AppCenter.start(
             application,
-            "YOUR-APP-CENTER-KEY",
+            "fd1802a5-c74b-4441-8302-d8267e12b180",
             Analytics::class.java,
             Crashes::class.java
         )
